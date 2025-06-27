@@ -10,3 +10,10 @@
 > en este curso todos los ejemplos van a hacer para una base de datos llamada "introdb"
 
     CREATE DATABASE introdb;  
+
+> para eliminar una base de datos vamos a
+> utilizar el comando **DROP DATABASE**
+
+> en la paleta de código escribimos
+
+    DROP DATABASE nombre;  
